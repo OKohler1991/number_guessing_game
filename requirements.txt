@@ -1,0 +1,6 @@
+mccabe==0.7.0
+pycodestyle==2.10.0
+pydocstyle==6.3.0
+pyflakes==3.0.1
+pylama==8.4.1
+snowballstemmer==2.2.0
