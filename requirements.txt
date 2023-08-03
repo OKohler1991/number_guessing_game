@@ -1,6 +1,11 @@
+colorama==0.4.6
+iniconfig==2.0.0
 mccabe==0.7.0
+packaging==23.1
+pluggy==1.2.0
 pycodestyle==2.10.0
 pydocstyle==6.3.0
 pyflakes==3.0.1
 pylama==8.4.1
+pytest==7.4.0
 snowballstemmer==2.2.0
